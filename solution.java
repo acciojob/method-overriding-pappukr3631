@@ -15,7 +15,7 @@ class B extends A
   }
 }
 
-class overriding
+class solution
 {
   public static void main(String[] args)
   {
